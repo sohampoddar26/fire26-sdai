@@ -13,7 +13,7 @@ a { color: inherit; text-decoration: none; }
 .eyebrow { font-size: 16px; }
 .card-number, .date, .criteria-grid article > span { font-size: 13px; }
 .brand span { padding: 10px 9px; border: 1px solid var(--ink); writing-mode: vertical-rl; transform: rotate(180deg); }
-.brand strong { font-size: 16px; font-weight: 700; }
+.brand strong { font-size: 18px; font-weight: 700; }
 nav { display: flex; align-items: center; gap: 27px; font-size: 13px; }
 nav a { color: var(--muted); padding: 8px 0; border-bottom: 1px solid transparent; }
 nav a:hover, nav a.active { color: var(--ink); border-color: var(--ink); }
